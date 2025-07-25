@@ -1,0 +1,46 @@
+{
+    "name": "Prajjwal Joshi",
+    "email": "prajjwalj@gmail.com",
+    "phone": "9897633287",
+    "linkedin": "prajjwal@linkedin.com",
+    "github": "github@pj.com",
+    "objective": "Software Engineer",
+    "skills": [
+        "HTML",
+        "CSS",
+        "JS",
+        "Python",
+        "OOPs",
+        "Java",
+        "DSA"
+    ],
+    "education": [
+        {
+            "degree": "B Tech in IT",
+            "institution": "DTU",
+            "year": "2028"
+        }
+    ],
+    "projects": [
+        {
+            "title": "Portfolio Webpage",
+            "description": "built a personal portfolia webpage highlighting my skills and projects"
+        },
+        {
+            "title": "Resume BUilder",
+            "description": "Built a python powered resume builder to automate the process of making your resumes"
+        }
+    ],
+    "experience": [
+        {
+            "title": "intern",
+            "company": "Nvidia",
+            "duration": "2 months"
+        },
+        {
+            "title": "AI engineer inter",
+            "company": "Open AI",
+            "duration": "6 months"
+        }
+    ]
+}
